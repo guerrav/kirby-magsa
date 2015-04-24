@@ -1,0 +1,37 @@
+﻿Title: Bellas Artes Picasso
+
+----
+
+Tags: encino,exposicion,bellas artes,picasso
+
+----
+
+Date: 2014-May-03
+
+----
+
+Text: Here are a few more settings that can help you customize your video page, add a Creative Commons license, and update your video.
+
+----
+
+Convideo: si
+
+----
+
+Video: (vimeo: http://vimeo.com/92657483)
+
+----
+
+Convideo2: si
+
+----
+
+Video2: (vimeo: http://vimeo.com/92657483)
+
+----
+
+Convideo3: si
+
+----
+
+Video3: (vimeo: http://vimeo.com/92657483)

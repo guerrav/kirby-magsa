@@ -1,0 +1,17 @@
+Title: MAGSA
+
+----
+
+Author: Ernesto Gómez
+
+----
+
+Description: Magsa // taller de prototipos.
+
+----
+
+Keywords: Magsa, Taller, prototipos
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://magsa.cc text: Magsa)
